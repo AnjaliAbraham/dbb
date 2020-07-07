@@ -94,7 +94,7 @@
            MOVE DFHCOMMAREA           TO SAVE-COMM-AREA.
            EVALUATE TRUE
                WHEN EIBCALEN = ZERO
-      * First time in - Show Screen
+      * First time in - Show Screen*
                    PERFORM A100-PROCESS-MAP
                WHEN EIBAID = DFHCLEAR
       * Process CLEAR key
