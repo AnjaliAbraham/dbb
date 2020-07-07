@@ -1,6 +1,7 @@
       *****************************************************************
       *
       *
+      *
        01    DFHAID.
          02  DFHNULL   PIC  X  VALUE IS X'00'.
          02  DFHENTER  PIC  X  VALUE IS ''''.
