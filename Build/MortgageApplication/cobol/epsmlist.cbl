@@ -85,7 +85,7 @@
 
        PROCEDURE DIVISION USING DFHCOMMAREA.
 
-      * JPH - DO I need this for files
+      * JPH - DO I need this for files*
       * EXEC CICS HANDLE CONDITION H900-NOT-FOUND
 
 
